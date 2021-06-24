@@ -1,0 +1,28 @@
+h1{
+    color:red
+}
+h2{
+    color:white
+}
+
+img{
+    border:solid;
+    
+} 
+.header{ 
+ background-color: black;
+ text-align: center;
+}
+.item{
+  
+background-color: yellow;
+width: 300px ;
+margin:10px;
+
+}
+.project{
+    display:flex;
+    justify-content : space-evenly;
+    flex-wrap:wrap;
+    /*margin:40px;*/
+}
